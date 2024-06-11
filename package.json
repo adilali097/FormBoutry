@@ -1,0 +1,20 @@
+{
+    "name": "contact-form-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "contact",
+      "form",
+      "server"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "nodemailer": "^6.7.2"
+    }
+  }
+  
