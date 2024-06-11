@@ -20,4 +20,12 @@ A simple HTTP server for handling contact form submissions.
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone git@github.com:adilali097/FormBoutry.git
+
+'''bash
+2. npm install nodemailer
+
+'''bash
+3.  use this from tag  for your : <form action="http://localhost:3000/contact" method="post">;
+
+
